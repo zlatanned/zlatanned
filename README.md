@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: To be proactive on github again and contribute to Open Source projects. 🤠 😈
 - ⚡ Fun fact: I love to play and watch football. Want to learn drums too. ⚽️ 🥁
 
-### Connect with me:
+### Connect with me 🤝 : 
 
 [<img align="left" alt="zlatanned | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="zlatanned | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
