@@ -36,6 +36,10 @@
 
 <br />
 <br />
+<p>
+  <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.</i><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatanned&layout=compact&theme=material-palenight" />
+</p>
 
 [instagram]: https://instagram.com/iamakshayshahi
 [linkedin]: https://linkedin.com/in/shahiakshay31
