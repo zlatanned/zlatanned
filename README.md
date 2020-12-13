@@ -52,7 +52,7 @@
 <br />
 
 <p align="center"> 
-  <i>Profile Visitor count</i><br>
+  <i>Live Profile Visitor count</i><br>
   <img src="https://profile-counter.glitch.me/zlatanned/count.svg" />
 </p>
 
