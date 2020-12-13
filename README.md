@@ -6,7 +6,7 @@
 
 ## I'm a Backend Developer and a Football Fanatic!
 
-- 🔭 I’m currently working on OAuth2.0 strategies using passport.js. 😎 🤩
+- 🔭 I’m currently exploring and learning GraphQL. 😎 🤩
 - 🌱 I’m currently learning elastic search, up next in the queue are graphQL and redis 🤯 💀
 - 🥅 2020 Goals: To end the year on a high and be ready for 2021. 🤠 😈
 - ⚡ Fun fact: I love to play and watch football. Want to learn drums too. ⚽️ 🥁
