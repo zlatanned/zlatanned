@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatanned&layout=compact&theme=material-palenight" />
 </p>
 
-[instagram]: https://instagram.com/iamakshayshahi
+[instagram]: https://instagram.com/akashahipaneer
 [linkedin]: https://linkedin.com/in/shahiakshay31
 
 <br />
