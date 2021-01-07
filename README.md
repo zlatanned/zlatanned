@@ -1,7 +1,7 @@
 ### I am Akshay aka zlatanned 🤟🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-Akshay%20Shahi-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shahiakshay31)
-[![Website Badge](https://img.shields.io/badge/Coming%20Soon-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/zlatanned)
+[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://zlatanned.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-@akashahipaneer-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/akashahipaneer/)
 
 ## I'm a Backend Developer and a Football Fanatic!
