@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently exploring and learning GraphQL. 😎 🤩
 - 🌱 I’m also currently learning elastic search, up next in the queue is redis 🤯 💀
-- 🥅 2020 Goals: To end the year on a high and be ready for 2021. 🤠 😈
+- 🥅 2021 Goals: Stay Safe and keep learning. 🤠 😈
 - ⚡ Fun fact: I love to play and watch football. Want to learn drums too. ⚽️ 🥁
 
 ### Connect with me 🤝 : 
