@@ -7,7 +7,7 @@
 ## I'm a Backend Developer and a Football Fanatic!
 
 - 🔭 I’m currently exploring and learning Go. 😎 🤩
-- 🌱 I’m also currently learning elastic search, up next in the queue is redis 🤯 💀
+- 🌱 I’m also currently learning redis 🤯 💀
 - 🥅 2021 Goals: Stay Safe and keep learning. 🤠 😈
 - ⚡ Fun fact: I love to play and watch football. Want to learn drums too. ⚽️ 🥁
 
